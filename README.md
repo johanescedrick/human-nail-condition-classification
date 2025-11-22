@@ -1,0 +1,1 @@
+A deep learning project for classifying human nail conditions using a modified AlexNet CNN and a pretrained ResNet50 model. Includes dataset preparation, augmentation, training, and performance comparison between architectures.
